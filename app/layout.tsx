@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Diego e Nina",
+  title: "TabNews — Trabalho em andamento",
 };
 
 export default function RootLayout({
